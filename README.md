@@ -35,13 +35,14 @@ Classifications, Regressions (e.g. GLMs, GAMs, Logistic regressions, Naive Bayes
 Multiple testing (e.g. FWER, FDR), Penalized Regressions (e.g. Ridge, Lasso, MCP, SCAD, Elastic net, MNet, Fused Lasso, etc.)
 
 - Time Series Analysis  
-Visualizations (e.g. {openair}, {modeltime}), Predictions (e.g. ARIMA models, ETS models, PROPHET, Hierarchical Time Series Analysis), Intervention analysis, DTW(Dynamic Time Warping), DWT(Discrete Wavelets Transform)
+Visualizations (e.g. {openair}, {modeltime}), Predictions (e.g. ARIMA models, ETS models, PROPHET, Hierarchical Time Series Analysis), Intervention analysis, DTW, DWT
 
 - Unsupervised Learning  
-Cluster Analysis, PCA(Principal Componenet Analysis), FA(Factor Analysis)
+Cluster Analysis, PCA, FA
 
 #### Coding
-- R (Proficient) : {tidyverse}, {tidymodels}, {caret}, {vroom}, {dtplyr}, {lubridate}, {Cairo}, etc.
+- R (Proficient)  
+{tidyverse}, {tidymodels}, {caret}, {vroom}, {dtplyr}, {lubridate}, {Cairo}, etc.
 - Python (Beginner)
 - Tableau (Beginner)
 - MYSQL (Beginner)
