@@ -2,8 +2,9 @@
 
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/taemo-bang-8b9999184//)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/taemo-bang-8b9999184//)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fbe-favorite)
 
 <!--
 **be-favorite/be-favorite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
