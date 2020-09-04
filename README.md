@@ -11,8 +11,8 @@
     
 
 
-### Hi there. 👋
-## I'm a Master's student who is specialized in statistics.
+#### Hi there. 👋
+#### I'm a master's student who specializes in statistics.
 
 
 
