@@ -4,12 +4,11 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/taemo-bang-8b9999184//)
-
 [![Instagram Badge]
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/qkdxoah">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/qkdxoah/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>]
 </a>
 
 <!--
