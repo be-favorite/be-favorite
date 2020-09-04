@@ -25,12 +25,22 @@
 - Machine Learning Methodolgy
 - Advanced Data Mining
 
-### Skil
+### Skills
+#### Technical
+- Statistical Learning (Machine Learning) : Classifications, Regressions (e.g. GLMs, GAMs, Logistic regressions, Naive Bayes, SVM, Ensemble methods, etc.)
 
+- High-Dimensinal Data Analysis : Multiple testing (e.g. FWER, FDR), Penalized Regressions (e.g. Ridge, Lasso, MCP, SCAD, Elastic net, MNet, Fused Lasso, etc.)
 
-### Interest
+- Time Series Analysis : Visualizations (e.g. {openair}, {modeltime}), Predictions (e.g. ARIMA models, ETS models, PROPHET, Hierarchical Time Series Analysis), 
+                         Intervention analysis, DTW(Dynamic Time Warping), DWT(Discrete Wavelets Transform)
 
+- Unsupervised Learning : Cluster Analysis, PCA, FA
 
+#### Coding
+- R (Proficient) : {tidyverse}, {tidymodels}, {vroom}, {dtplyr}, {lubridate}, {Cairo}, etc.
+- Python (Beginner)
+- Tableau (Beginner)
+- MYSQL (Beginner)
 
 
 <div align=center>
