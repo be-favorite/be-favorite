@@ -35,7 +35,7 @@ Classifications, Regressions (e.g. GLMs, GAMs, Logistic regressions, Naive Bayes
 Multiple testing (e.g. FWER, FDR), Penalized Regressions (e.g. Ridge, Lasso, MCP, SCAD, Elastic net, MNet, Fused Lasso, etc.)
 
 - Time Series Analysis  
-Visualizations (e.g. {openair}, {modeltime}), Predictions (e.g. ARIMA models, ETS models, PROPHET, Hierarchical Time Series Analysis), Intervention analysis, DTW, DWT
+Visualizations (e.g. {openair}, {modeltime}), Predictions (e.g. ARIMA models, ETS models, PROPHET, Hierarchical Time Series Analysis), Intervention Analysis, Dynamic Time Warping, Feature Extraction(e.g. DWT)
 
 - Unsupervised Learning  
 Cluster Analysis, PCA, FA
