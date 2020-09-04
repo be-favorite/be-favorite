@@ -1,6 +1,6 @@
-#### Hi there. 😄
-#### I'm a master's student who specializes in Statistics.
-#### I do love R, Visualization, and Analysis. 🌱 Towards a data analyst!
+#### Hi there. 👋
+#### I'm a master's student who specializes in Statistics. 🎓
+#### I do love R, visualization, and analysis. Towards a data analyst! ✍️
 
 ### COURSEWORK
 #### Undergraduate
