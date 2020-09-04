@@ -42,7 +42,7 @@ Cluster Analysis, PCA, FA
 
 #### Coding
 - R (Proficient)  
-{tidyverse}, {tidymodels}, {caret}, {vroom}, {dtplyr}, {lubridate}, {Cairo}, etc.
+{tidyverse}, {tidymodels}, {caret}, {mlr}, {vroom}, {dtplyr}, {lubridate}, {Cairo}, etc.
 - Python (Beginner)
 - Tableau (Beginner)
 - MYSQL (Beginner)
