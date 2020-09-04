@@ -46,6 +46,7 @@ Cluster Analysis, PCA(Principal Componenet Analysis), FA(Factor Analysis)
 - Tableau (Beginner)
 - MYSQL (Beginner)
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
