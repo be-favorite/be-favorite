@@ -2,12 +2,12 @@
 #### I'm a master's student who specializes in Statistics.
 
 
-## Skills
+### Skills
 
-## COURSEWORK
+### COURSEWORK
 - Mathematical statistics
 
-## Interest
+### Interest
 
 
 
