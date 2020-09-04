@@ -57,7 +57,7 @@ Cluster Analysis, PCA(Principal Componenet Analysis), FA(Factor Analysis)
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taemo-bang-8b9999184/)](https://www.linkedin.com/in/taemo-bang-8b9999184/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/qkdxoah/)](https://www.instagram.com/qkdxoah/) 
 
 
     
