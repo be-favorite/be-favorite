@@ -3,8 +3,10 @@
 
 ### COURSEWORK
 #### Undergraduate
-- Statistical Mathematics - Time Series Analysis
-- Regression Analysis - Statistical Simulation
+- Statistical Mathematics 
+- Statistical Simulation
+- Regression Analysis 
+- Time Series Analysis
 - Multivariate Analysis
 - Categorical Data Analysis
 - Biostatistics
