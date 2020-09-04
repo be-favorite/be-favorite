@@ -1,11 +1,32 @@
 #### Hi there. 😄
 #### I'm a master's student who specializes in Statistics.
 
-
-### Skills
-
 ### COURSEWORK
-- Mathematical statistics
+#### Undergraduate
+- Statistical Mathematics
+- Time Series Analysis
+- Regression Analysis
+- Statistical Simulation
+- Multivariate Analysis
+- Categorical Data Analysis
+- Biostatistics
+- Survival Analysis
+- Clinical Data Anaysis
+- Data Mining
+- Insuarance Statistics
+- Quality Control
+- Statistical Consulting
+- Experimental Design
+
+#### Graduate
+- Advanced Regression Analysis
+- Advanced Statistical Consulting
+- Advanced Bayesian Statistics
+- Machine Learning Methodolgy
+- Advanced Data Mining
+
+### Skil
+
 
 ### Interest
 
