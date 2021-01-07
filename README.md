@@ -56,8 +56,9 @@ Cluster Analysis, PCA, FA
 
 <div align=center>
 
+[![Tistory badge](https://img.shields.io/badge/Tistory-SLOG-orange)](https://be-favorite.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taemo-bang-8b9999184/)](https://www.linkedin.com/in/taemo-bang-8b9999184/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/qkdxoah/)](https://www.instagram.com/qkdxoah/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/qkdxoah/)](https://www.instagram.com/qkdxoah/)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite)](https://github.com/anuraghazra/github-readme-stats)
 
