@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taemo Bang.</h1>
-<h3 align="center">A passionate data scientist from South Korea</h3>
+<h3 align="center">The data scientist from South Korea who loves R, Statistics, Visualization</h3>
 
 &nbsp;
 
