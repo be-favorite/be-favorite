@@ -14,12 +14,14 @@
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/> </a>
+<h4 align="left">Proficient level</h3>
+<p align="left">
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/> </a>
 </p>
-<p align="left"> 
+<h4 align="left">beginner level</h3>
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
