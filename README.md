@@ -28,9 +28,5 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=be-favorite&label=Profile%20views&color=0e75b6&style=flat" alt="be-favorite" /> </p>
-<p align="center"> <a href="https://twitter.com/taemobang" target="blank"><img src="https://img.shields.io/twitter/follow/taemobang?logo=twitter&style=for-the-badge" alt="taemobang" /></a> </p>
-
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en" alt="be-favorite" /></p>
-</p>
+<div align=center>
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite)](https://github.com/anuraghazra/github-readme-stats)
