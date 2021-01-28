@@ -30,8 +30,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taemobang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="taemobang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taemo bang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taemo bang" height="30" width="40" /></a>
-<a href="https://kaggle.com/taemo bang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="taemo bang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taemo-bang-8b9999184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taemo bang" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/taemobang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="taemo bang" height="30" width="40" /></a>
 <a href="https://instagram.com/qkdxoah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qkdxoah" height="30" width="40" /></a>
 </p>
 
