@@ -29,4 +29,4 @@
   </p>
 
 <div align=center>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en" alt="be-favorite" /></p>
