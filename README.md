@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **deep learning, {torch} and {dbplyr} in R**
 
-- 📝 I regularly write articles on [be-favorite.tistory.com](be-favorite.tistory.com) (only written in Korean :joy:)
+- 📝 I regularly write articles on [here](https://be-favorite.tistory.com/) (only written in Korean :joy:)
 
 - 💬 Ask me about **everything related to R, statistics, and machine learning**
 
