@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -31,7 +31,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=be-favorite&label=Profile%20views&color=0e75b6&style=flat" alt="be-favorite" /> </p>
 <p align="center"> <a href="https://twitter.com/taemobang" target="blank"><img src="https://img.shields.io/twitter/follow/taemobang?logo=twitter&style=for-the-badge" alt="taemobang" /></a> </p>
 
-
+<p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en" alt="be-favorite" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=be-favorite&" alt="be-favorite" /></p>
+</p>
