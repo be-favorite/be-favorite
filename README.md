@@ -1,5 +1,8 @@
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> #img-front {
+	filter: invert(35%) sepia(23%) saturate(3361%) hue-rotate(186deg) brightness(98%) contrast(84%);
+}</a> </p>
+
 
 #### Hi there. 👋
 #### I'm a master's student who specializes in Statistics. 🎓
