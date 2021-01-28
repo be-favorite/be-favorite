@@ -1,3 +1,6 @@
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r.svg" alt="r" width="40" height="40"/> </a> </p>
+
 #### Hi there. 👋
 #### I'm a master's student who specializes in Statistics. 🎓
 #### I love Statistics, R, visualization, and analysis. :blush:
