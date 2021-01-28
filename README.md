@@ -1,5 +1,7 @@
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/></a> </p>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://www.tableau.com/en-gb/" target="_blank"> <img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="40" height="40"/></a> </p>
 
 #### Hi there. 👋
 #### I'm a master's student who specializes in Statistics. 🎓
