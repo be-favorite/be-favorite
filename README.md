@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://be-favorite.tistory.com/](https://be-favorite.tistory.com/) (only written in Korean)
 
-- 📝 I also take part in [the sub-blog](https://statisticsplaybook.tistory.com/pages/about) of the Statistics Playbook([the Youtube channel](https://www.youtube.com/c/statisticsplaybook/featured)) as one of the writers (also written in Korean :joy:)
+- 📝 I also take part in [the sub-blog](https://statisticsplaybook.tistory.com/pages/about) of [the Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured) as one of the writers (also written in Korean :joy:)
 
 - 💬 Ask me about **everything related to R, statistics, and machine learning**
 
