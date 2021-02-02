@@ -16,21 +16,10 @@
 &nbsp;
 
 <h3 align="left">Languages and Tools</h3>
-<h4 align="left">Proficient:</h3>
-<p align="left">
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://rstudio.com/" target="_blank"> <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="Rstudio" width="40" height="40"/> </a>
-<h4 align="left">Intermediate:</h3>
-<p align="left">
-  <a href="https://www.sas.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="50" height="50"/> </a>
-</p>
-<h4 align="left">Elementary: </h3>
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tableau.com/en-gb/" target="_blank"> <img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+
+Proficient|Intermediate|Elementary
+--|--|--
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a> <a href="https://rstudio.com/" target="_blank"> <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="Rstudio" width="40" height="40"/></a>|<a href="https://www.sas.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="50" height="50"/> </a>|<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tableau.com/en-gb/" target="_blank"> <img src="https://simpleicons.org/icons/tableau.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 &nbsp;
 
@@ -41,7 +30,6 @@
 <a href="https://www.kaggle.com/taemobang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="taemo bang" height="30" width="40" /></a>
 <a href="https://instagram.com/qkdxoah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qkdxoah" height="30" width="40" /></a>
 </p>
-
 
 &nbsp;
 <div align=center>
