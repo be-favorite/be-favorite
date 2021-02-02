@@ -18,8 +18,11 @@
 <h3 align="left">Languages and Tools</h3>
 <h4 align="left">Proficient:</h3>
 <p align="left">
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://simpleicons.org/icons/r.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://rstudio.com/" target="_blank"> <img src="https://simpleicons.org/icons/rstudio.svg" alt="rstudio" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://rstudio.com/" target="_blank"> <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="Rstudio" width="40" height="40"/> </a>
+<h4 align="left">Intermediate:</h3>
+<p align="left">
+  <a href="https://www.sas.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="50" height="50"/> </a>
 </p>
 <h4 align="left">Elementary: </h3>
 <p align="left">
