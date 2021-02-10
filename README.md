@@ -9,7 +9,7 @@
 
 - 📝 I also take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EB%A9%A4%EB%B2%84%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the writers (also written in Korean :joy:)
 
-- 💬 Ask me about **everything related to R, statistics, and machine learning**
+- 💬 Ask me about **everything related to R, Statistics, and Machine Learning**
 
 - 📫 How to reach me **favorite@kakao.com**
 
