@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taemo Bang.</h1>
-<h3 align="center">The passionate data scientist from South Korea</h3>
+<h3 align="center">A data scientist at Gil Medical Center G-ABC</h3>
 
 &nbsp;
+
+- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution(e.g. PM10, PM 2.5, etc)**
 
 - 🌱 I’m currently learning **advanced time series analysis, land-use regression, deep learning and {torch} in R**
 
