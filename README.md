@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🌱 I’m currently learning **deep learning, {torch} and {dbplyr} in R**
+- 🌱 I’m currently learning **advanced time series analysis, land-use regression, deep learning and {torch} in R**
 
 - 📝 I regularly write articles on [https://be-favorite.tistory.com/](https://be-favorite.tistory.com/) (only written in Korean)
 
