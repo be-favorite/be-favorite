@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taemo Bang.</h1>
-<h3 align="center">A data scientist at Gil Medical Center G-ABC</h3>
+<h3 align="center">A healthcare data scientist at Gil Medical Center G-ABC</h3>
 
 &nbsp;
 
