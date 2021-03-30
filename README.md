@@ -3,9 +3,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution(e.g. PM10, PM 2.5, etc)**
-
-- 🌱 I’m currently learning **advanced time series analysis, land-use regression, deep learning and {torch} in R**
+- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution(e.g. PM10, PM 2.5, etc)** and more
 
 - 📝 I regularly write articles on [https://be-favorite.tistory.com/](https://be-favorite.tistory.com/) (only written in Korean)
 
