@@ -4,15 +4,15 @@
 
 - 🏥 I'm working for the [G-ABC, Gil Medical Center](http://www.gilabc.com/)
 
-- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution** and more
+- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution** and more things
 
 - 🌱 I’m currently learning **modern statistical methods for infectious disease data analysis**
+
+- 👀 I'm interested in **time series, statistical learning, infectious disease data analysis, R**
 
 - 📝 I regularly write articles on [the personal blog](https://be-favorite.tistory.com/)
 
 - 📝 I take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EA%B0%9D%EC%9B%90%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the guest writers
-
-- 💬 Ask me about **everything related to Statistics, Time Series, Machine/Statistical Learning, R**
 
 - 📧 How to reach me **favorite@kakao.com**
 
