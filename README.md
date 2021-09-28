@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **modern statistical methods for infectious disease data analysis**
 
-- 📝 I regularly write articles on [https://be-favorite.tistory.com/](https://be-favorite.tistory.com/)
+- 📝 I regularly write articles on [the personal blog](https://be-favorite.tistory.com/)
 
 - 📝 I take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EB%A9%A4%EB%B2%84%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the guest writers
 
