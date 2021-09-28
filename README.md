@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution(** and more
+- 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution** and more
 
 - 🌱 I’m currently learning **modern statistical methods for infectious disease data analysis**
 
