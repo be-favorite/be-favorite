@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taemo Bang.</h1>
+<h1 align="center">Hi 👋, I'm Taemo.</h1>
 <h3 align="center">A healthcare data scientist at Gil Medical Center G-ABC</h3>
 
 &nbsp;
@@ -25,7 +25,7 @@ Proficient|Intermediate|Elementary
 <p align="left">
 <a href="https://twitter.com/taemobang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="taemobang" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/taemo-bang-8b9999184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taemo bang" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/taemobang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="taemo bang" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100070120780059" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="taemobang" height="30" width="40" /></a>
 </p>
 
 &nbsp;
