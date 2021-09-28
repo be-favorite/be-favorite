@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Taemo.</h1>
-<h3 align="center">A healthcare data scientist at Gil Medical Center G-ABC</h3>
+<h3> Hi all.👋 I'm Taemo. </h3>
 
-&nbsp;
+
 
 - 🏥 I'm working for the [Gil Artificial & Big-Data Convergence Center G-ABC, Gil Medical Center](http://www.gilabc.com/)
 
