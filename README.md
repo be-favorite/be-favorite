@@ -1,4 +1,4 @@
-<h3 align = "center"> Hi all.👋 I'm Taemo. </h3>
+<h3 align = "center"> Hi all, I'm Taemo. </h3>
 
 &nbsp;
 
