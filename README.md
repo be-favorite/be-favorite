@@ -2,7 +2,7 @@
 
 &nbsp;
 
-- 🏥 I'm working for the [Gil Artificial & Big-Data Convergence Center G-ABC, Gil Medical Center](http://www.gilabc.com/)
+- 🏥 I'm working for the [G-ABC, Gil Medical Center](http://www.gilabc.com/)
 
 - 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution** and more
 
