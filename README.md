@@ -3,17 +3,19 @@
 
 &nbsp;
 
+- 🏥 I'm working for the [Gil Artificial & Big-Data Convergence Center G-ABC, Gil Medical Center](http://www.gilabc.com/)
+
 - 🔭 I’m currently working on **evaluating health effects from long-term exposure to air pollution** and more
 
 - 🌱 I’m currently learning **modern statistical methods for infectious disease data analysis**
 
-- 📝 I regularly write articles on [https://be-favorite.tistory.com/](https://be-favorite.tistory.com/) (only written in Korean)
+- 📝 I regularly write articles on [https://be-favorite.tistory.com/](https://be-favorite.tistory.com/)
 
-- 📝 I also take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EB%A9%A4%EB%B2%84%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the writers (also written in Korean :joy:)
+- 📝 I take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EB%A9%A4%EB%B2%84%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the guest writers
 
-- 💬 Ask me about **everything related to Statistics, Time Series, Statistical/Machine Learning, R**
+- 💬 Ask me about **everything related to Statistics, Time Series, Machine/Statistical Learning, R**
 
-- 📫 How to reach me **favorite@kakao.com**
+- 📧 How to reach me **favorite@kakao.com**
 
 <h3 align="left">Languages and Tools</h3>
 
