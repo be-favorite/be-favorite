@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [the personal blog](https://be-favorite.tistory.com/)
 
-- 📝 I take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EB%A9%A4%EB%B2%84%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the guest writers
+- 📝 I take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EA%B0%9D%EC%9B%90%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the guest writers
 
 - 💬 Ask me about **everything related to Statistics, Time Series, Machine/Statistical Learning, R**
 
