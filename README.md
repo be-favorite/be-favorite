@@ -4,11 +4,11 @@
 
 - 🏥 I'm working for the [G-ABC, Gil Medical Center](http://www.gilabc.com/)
 
-- 🔭 I’m currently working on [**evaluating health effects from long-term exposure to air pollution** and more things](https://github.com/G-ABCwork)
+- 🔭 I’m currently working on [evaluating health effects from long-term exposure to air pollution and more things](https://github.com/G-ABCwork)
 
-- 🌱 I’m currently learning [**modern statistical methods for infectious disease data analysis**](https://github.com/Study-HIDDA)
+- 🌱 I’m currently learning [modern statistical methods for infectious disease data analysis](https://github.com/Study-HIDDA)
 
-- 👀 I'm interested in **time series, statistical learning, infectious disease data analysis, R**
+- 👀 I'm interested in time series, statistical learning, infectious disease data analysis, R
 
 - 📝 I regularly write articles on [the personal blog](https://be-favorite.tistory.com/)
 
