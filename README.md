@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning [modern statistical methods for infectious disease data analysis](https://github.com/Study-HIDDA)
 
-- 👀 I'm interested in time series, statistical learning, infectious disease data analysis, R
+- 👀 I'm interested in time series, statistical learning, infectious disease data analysis
 
 - 📝 I regularly write articles on [the personal blog](https://be-favorite.tistory.com/)
 
