@@ -1,18 +1,9 @@
-<h3 align = "center"> Hi all, I'm Taemo. </h3>
+<a href="https://taemobang.com/">
+    <img src="https://badgen.net/badge/icon/About me?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
+  
+ [![Taemo Bangs's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) 
 
-&nbsp;
-
-- 🏥 I'm working for the [G-ABC, Gil Medical Center](http://www.gilabc.com/)
-
-- 🔭 I’m currently working on [evaluating health effects from long-term exposure to air pollution and more things](https://github.com/G-ABCwork)
-
-- 👀 I'm interested in time series, statistical learning
-
-- 📝 I regularly write articles on [the personal blog](https://be-favorite.tistory.com/)
-
-- 📝 I take part in [the sub-blog](https://statisticsplaybook.tistory.com/category/%EA%B0%9D%EC%9B%90%EC%B9%BC%EB%9F%BC/be-favorite) of the Youtube channel <[Statistics Playbook](https://www.youtube.com/c/statisticsplaybook/featured)> as one of the guest writers
-
-- 📧 How to reach me **favorite@kakao.com**
+  </a>
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -20,14 +11,11 @@ Proficient|Intermediate|Elementary
 --|--|--
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a>|<a href="https://www.sas.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="50" height="50"/> </a>|<a href="https://torch.mlverse.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tableau.com/en-gb/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/taemobang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="taemobang" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/taemo-bang-8b9999184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taemo bang" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100070120780059" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="taemobang" height="30" width="40" /></a>
-</p>
+ ### Languages
+![R](https://img.shields.io/badge/R-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=R&logoColor=white) ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=MySQL&logoColor=white)
 
-&nbsp;
 <div align=center>
-<p> <img src="https://komarev.com/ghpvc/?username=be-favorite&label=Profile%20views&color=0e75b6&style=flat" alt="be-favorite" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en" alt="be-favorite" /></p>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbe-favorite&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</div>
