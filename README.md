@@ -5,7 +5,7 @@
 </div>
 
 <a href="https://taemobang.com/">
-    <img src="https://badgen.net/badge/icon/About me?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
+    <img src="https://badgen.net/badge/icon/TechBlog?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
   
  [![Taemo Bangs's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) 
   
