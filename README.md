@@ -2,8 +2,9 @@
 
 <div align=center>
   
-***A bird sitting on a tree is never afraid of the branch breaking, because her trust is not on the branch but on it’s own wings. - Unknown***
-***If you can't explain it simply, you don't understand it well enough. - Albert Einstein***
+  ***A bird sitting on a tree is never afraid of the branch breaking, because her trust is not on the branch but on it’s own wings. - Unknown***
+
+  ***If you can't explain it simply, you don't understand it well enough. - Albert Einstein***
   
 </div>
 
