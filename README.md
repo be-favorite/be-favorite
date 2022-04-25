@@ -23,5 +23,5 @@
   
  ### 🚀Tools
  - Proficient: R
- - Intermediate: SAS
- - Elementary: Python, Tableau, MySQL
+ - Intermediate: SAS, SQL
+ - Elementary: Python, Tableau
