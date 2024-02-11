@@ -14,8 +14,3 @@ Interested in trustworthy online controlled experiment and time series data anal
  [![Taemo Bangs's github stats](https://github-readme-stats.vercel.app/api?username=be-favorite&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) 
   
   </a>
-  
- ### 🛠 Tools
- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
